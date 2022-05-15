@@ -1,12 +1,9 @@
 # Patrick Zhang - Data Science and Analysis Portfolio
 
-## About
-Salutatations! I'm Patrick and I currently hold a Bachelor of Science Degree in Mechnical Engineering from the University of South Florida. Since 2020, I've been working to make a change into the data science and data analytics fields by taking classes related to these topics.
-
 This is where I'll showcase all my data science and analysis skills and projects.
 
 ## Table of Contents
-- [About](#about)
+
 - [Certificates](#certificates)
 - [Contact](#contact)
 
