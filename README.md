@@ -6,8 +6,9 @@ This is where I'll showcase all my data science and analysis skills and projects
 - [Projects](#projects)
 - [Certificates](#certificates)
 
-## Projects
-Coming soon
+## Projects/Coursework
+- [Principles of Data Science Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/PoDS%20Final%20Project%20Report.pdf)
+- [Principles of Data Science Coursework Jupyter Notebook](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/Final%20Coursework%20(PDS).ipynb)
 
 ## Certificates
 All certificates of relevant courses are listed here.
