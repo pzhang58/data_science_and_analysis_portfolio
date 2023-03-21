@@ -8,7 +8,7 @@ This is where I'll showcase all my data science and analysis skills and projects
 
 ## Projects
 All projects, whether personal or from my MSc Data Science coursework, are listed here
-- [Principles of Data Science Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/PoDS%20Final%20Project%20Report.pdf) - Report for the Principles of Data Science coursework at City, University of London
+- [Principles of Data Science Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/PoDS%20Final%20Project%20Report.pdf) - Report for the Principles of Data Science coursework at City, University of London ([Project Files](https://github.com/pzhang58/Analysis-of-Air-Quality-in-Guangzhou-China))
 - [Principles of Data Science Coursework Jupyter Notebook](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/Final%20Coursework%20(PDS).ipynb) - Jupyter Notebook for the Principles of Data Science coursework at City, University of London
 - [Machine Learning Coursework Poster](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/MachineLearning_Poster.pdf) - Machine Learning Coursework poster for the Machine learning course at City, University of London
 - [Visual Analytics Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/Visual_Analytics_Final_Project.pdf) - Report for the Visual Analytics coursework at City, University of London
