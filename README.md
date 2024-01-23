@@ -18,3 +18,4 @@ All certificates of relevant courses are listed here.
 - [Introduction to Computer Science and Programming Specialization](https://coursera.org/share/048df35e9f298abd840f7fe4b7e690ef) (Oct 2020) (Coursera - University of London)
 - [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/27c414c13e3444b09bad5cd3bda47923) (Jan 2021) (edX - Harvard University)
 - [Introduction to Data Science Specialization](https://coursera.org/share/58da956b461ffcc75689cc4f03194a68) (Dec 2021) (Coursera - IBM)
+- [IBM Data Analyst Professional Certificate](https://coursera.org/share/06b6a632cdf64b37edddaec03a9e214f) (Jan 2023) (Coursera - IBM)
