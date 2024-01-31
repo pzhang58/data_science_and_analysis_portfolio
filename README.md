@@ -11,8 +11,8 @@ All projects, whether personal or from my MSc Data Science coursework, are liste
 - [Principles of Data Science Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/PoDS%20Final%20Project%20Report.pdf) - Report for the Principles of Data Science coursework at City, University of London ([Project Files](https://github.com/pzhang58/Analysis-of-Air-Quality-in-Guangzhou-China))
 - [Machine Learning Coursework Poster](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/MachineLearning_Poster.pdf) - Machine Learning Coursework poster for the Machine learning course at City, University of London
 - [Visual Analytics Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/Visual_Analytics_Final_Project.pdf) - Report for the Visual Analytics coursework at City, University of London
-- [Applied Data Science Capstone](https://github.com/pzhang58/IBM_DataScience_Capstone) - Files for the Applied Data Science Capstone, part of the IBM Data Science Professional Certificate program on Coursera.
 - [IBM Data Analyst Capstone Project](https://github.com/pzhang58/IBM_Data_Analyst_Capstone_Project) - Files for the IBM Data Analyst Capstone Project, part of the IBM Data Analyst Professional Certificate program on Coursera.
+- [Applied Data Science Capstone](https://github.com/pzhang58/IBM_DataScience_Capstone) - Files for the Applied Data Science Capstone, part of the IBM Data Science Professional Certificate program on Coursera.
 
 ## Certificates
 All certificates of relevant courses are listed here.
