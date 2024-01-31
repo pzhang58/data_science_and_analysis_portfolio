@@ -11,6 +11,8 @@ All projects, whether personal or from my MSc Data Science coursework, are liste
 - [Principles of Data Science Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/PoDS%20Final%20Project%20Report.pdf) - Report for the Principles of Data Science coursework at City, University of London ([Project Files](https://github.com/pzhang58/Analysis-of-Air-Quality-in-Guangzhou-China))
 - [Machine Learning Coursework Poster](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/MachineLearning_Poster.pdf) - Machine Learning Coursework poster for the Machine learning course at City, University of London
 - [Visual Analytics Coursework Report](https://github.com/pzhang58/citymscdatasciencecoursework/blob/main/Visual_Analytics_Final_Project.pdf) - Report for the Visual Analytics coursework at City, University of London
+- [Applied Data Science Capstone](https://github.com/pzhang58/IBM_DataScience_Capstone) - Files for the Applied Data Science Capstone, part of the IBM Data Science Professional Certificate program on Coursera.
+- [IBM Data Analyst Capstone Project](https://github.com/pzhang58/IBM_Data_Analyst_Capstone_Project) - Files for the IBM Data Analyst Capstone Project, part of the IBM Data Analyst Professional Certificate program on Coursera.
 
 ## Certificates
 All certificates of relevant courses are listed here.
@@ -19,3 +21,4 @@ All certificates of relevant courses are listed here.
 - [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/27c414c13e3444b09bad5cd3bda47923) (Jan 2021) (edX - Harvard University)
 - [Introduction to Data Science Specialization](https://coursera.org/share/58da956b461ffcc75689cc4f03194a68) (Dec 2021) (Coursera - IBM)
 - [IBM Data Analyst Professional Certificate](https://coursera.org/share/06b6a632cdf64b37edddaec03a9e214f) (Jan 2023) (Coursera - IBM)
+- [IBM Data Science Professional Certificate](https://coursera.org/share/71e12431a862395019282db9952ec497) (Jan 2023) (Coursera - IBM)
